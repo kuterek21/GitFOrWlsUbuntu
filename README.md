@@ -23,6 +23,13 @@ git remote set-url origin https://_______________@github.com/username/<repo>
 - git commit -m "add the message/expalanation" // commit your change
 - git push origin main // add back to the main 
 
+## Git TAGS
+
+```git tag 0.1.0```
+`git push --tags`
+
+
+
 ## Connect with Git
 
 ``` git config --global user.name "name"

@@ -25,8 +25,10 @@ git remote set-url origin https://_______________@github.com/username/<repo>
 
 ## Git TAGS
 
-```git tag 0.1.0```
-`git push --tags`
+```git tag 0.1.0
+```
+`git push --tags
+`
 
 
 

@@ -9,8 +9,7 @@ sudo apt install git
 git --version
 ```
 ## Integrate GitHub with the WSL
-``` 
-GitHub
+- GitHub
   - your settings
   - Scroll to the bottom and select Developer Settings
   - Personbal access tokens

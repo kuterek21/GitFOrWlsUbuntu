@@ -27,17 +27,16 @@ git remote set-url origin https://_______________@github.com/username/<repo>
 
 ```
 git tag 0.1.0
-```
-`
+
 git push --tags
-`
+```
 
 
 
 ## Connect with Git
 
 ```
- git config --global user.name "name"
- git config --global user.email "email"
- git config --list
+ - git config --global user.name "name"
+ - git config --global user.email "email"
+ - git config --list
 ```
